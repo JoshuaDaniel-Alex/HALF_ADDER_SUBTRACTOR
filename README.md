@@ -82,3 +82,4 @@ Developed by:Joshua Daniel A RegisterNumber:25017654
 ![WhatsApp Image 2025-11-22 at 14 38 09_b68e439c](https://github.com/user-attachments/assets/8abc4bfd-c839-463a-a153-d617860aea88)
 ![WhatsApp Image 2025-11-22 at 14 38 26_8933fbed](https://github.com/user-attachments/assets/d7c90778-9b0c-4f69-b92e-a4a4489a5561)
 **Result:**
+Thus,the code is executed successfully.
